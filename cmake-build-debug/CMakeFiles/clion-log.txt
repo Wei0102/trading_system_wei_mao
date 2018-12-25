@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/wei/Desktop/trading_system
+-- Boost version: 1.68.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wei/Desktop/trading_system/cmake-build-debug

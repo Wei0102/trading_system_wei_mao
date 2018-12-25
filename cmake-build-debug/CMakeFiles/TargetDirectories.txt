@@ -1,0 +1,3 @@
+/Users/wei/Desktop/trading_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wei/Desktop/trading_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wei/Desktop/trading_system/cmake-build-debug/CMakeFiles/trading_system.dir
